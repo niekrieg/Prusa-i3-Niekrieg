@@ -11,10 +11,11 @@
 
 ## 机械结构
 
-| 空                                        | 雨                          | 伞         |
-| :--------------------------------------- | -------------------------- | --------- |
-| [i3结构的优缺点](http://www.diankeshequ.com/forum.php?mod=viewthread&tid=1862) |                            |           |
-| [近程还是远程](http://www.jianshu.com/p/bd3bc7b0cc13) |                            |           |
-| [mk2s有哪些改进](http://www.prusaprinters.org/original-prusa-i3-mk2s-release/) |                            |           |
-| [original prusa i3 manual](http://manual.prusa3d.com/c/English_manuals) |                            |           |
-| [github](https://github.com/prusa3d/Original-Prusa-i3) | 只有printed parts的stl和scad文件 | 创建catia数据 |
+| 空                                        | 雨               | 伞         |
+| :--------------------------------------- | --------------- | --------- |
+| [i3结构的优缺点](http://www.diankeshequ.com/forum.php?mod=viewthread&tid=1862) |                 |           |
+| [近程还是远程](http://www.jianshu.com/p/bd3bc7b0cc13) |                 |           |
+| [mk2s有哪些改进](http://www.prusaprinters.org/original-prusa-i3-mk2s-release/) |                 |           |
+| [original prusa i3 manual](http://manual.prusa3d.com/c/English_manuals) |                 |           |
+| [github](https://github.com/prusa3d/Original-Prusa-i3) | 只有打印件stl和scad文件 | 创建CATIA数据 |
+| [rod length](http://reprap.org/wiki/Prusa_i3_Build_Manual) |                 |           |
