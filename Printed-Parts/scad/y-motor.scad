@@ -56,7 +56,8 @@ module y_motor_holes(){
     translate([-5-2,30,28]) rotate([0,45,0]) cube([15, 19, 15]);	
     translate([-1,41,10])  cube([15, 5, 19]);	
     translate([27,33,0]) rotate([0,0,45]) cube([5, 5, 28]);	
-    translate([12-2,28,10.01]) rotate([0,0,45]) cube([5, 5, 28]);
+    translate([12-2,28,10.01]) rotate([0,0,45]) cube([5, 5, 28]); 
+    //why 10.01? I make first 10!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     
     translate([19,32,0]) rotate([0,30,0]) cube([8, 20, 18]);	
     translate([24.5-2,32,17]) rotate([0,45,0]) cube([2, 20, 2]);	
