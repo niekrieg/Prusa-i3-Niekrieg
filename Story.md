@@ -20,3 +20,20 @@
 | [original prusa i3 mk2s manual](http://manual.prusa3d.com/c/Original_Prusa_i3_MK2S_kit_assembly) |                  |           |
 | [github](https://github.com/prusa3d/Original-Prusa-i3) | 只有打印件的stl,scad文件 | 创建CATIA数据 |
 | [rod length](http://reprap.org/wiki/Prusa_i3_Build_Manual) |                  |           |
+| [Prusa i3 Rework Bill of materials](http://reprap.org/wiki/Prusa_i3_Rework_Bill_of_materials) |                  |           |
+| [Willy did a comparison of NEMA17 motors under 12V](http://www.reprap.org/wiki/Stepper_torque) |                  |           |
+
+## 历史遗留问题备注
+
+- 直线轴承LM8UU的固定
+- Y惰轮（与皮带轮一起选择）
+- 步进电机NEMA17的替代品
+
+## 安装工具
+
+- 13/17mm spanners
+- 3.6mm flathead screwdriver
+- Needle-nose pliers
+- 2.5 and 1.5mm Allen key
+- 游标卡尺（大尺寸）
+
