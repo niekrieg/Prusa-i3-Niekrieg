@@ -35,5 +35,5 @@
 - 3.6mm flathead screwdriver
 - Needle-nose pliers
 - 2.5 and 1.5mm Allen key
-- 游标卡尺（大尺寸）
+- 游标卡尺（量程？）
 
