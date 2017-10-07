@@ -5,7 +5,7 @@
 ## 为什么选择Prusa i3 (iteration 3)
 
 - 根据3d打印社区的调查问卷，reprap项目占比26%（2015年），而prusa又是其中使用范围最广的。
-- 相对于reprap推出的mendel，prusa mendel有着更简单的机械结构，更易组装，成本也更低。
+- 相于reprap推出的mendel，prusa mendel有着更简单的机械结构，更易组装，成本也更低。
 - prusa mendel是一个开源项目。
 - 总之，prusa i3是入门的最佳选择。
 - https://www.3dhubs.com/trends
@@ -22,6 +22,7 @@
 | [rod length](http://reprap.org/wiki/Prusa_i3_Build_Manual) |                  |           |
 | [Prusa i3 Rework Bill of materials](http://reprap.org/wiki/Prusa_i3_Rework_Bill_of_materials) |                  |           |
 | [Willy did a comparison of NEMA17 motors under 12V](http://www.reprap.org/wiki/Stepper_torque) |                  |           |
+|                                          |                  |           |
 
 ## 历史遗留问题备注
 
@@ -36,4 +37,16 @@
 - Needle-nose pliers
 - 2.5 and 1.5mm Allen key
 - 游标卡尺（量程？）
+- 9sea切割垫子
+
+
+## SOURCING
+
+- [启庞3D打印机配件](https://shop149439795.taobao.com/)
+
+
+- [DFRobot 官 方 旗 舰](https://dfrobot.taobao.com/)
+- [上海浩瀚工业铝型材](https://haohanlvye.taobao.com/)
+- [奥松机器人](https://store.taobao.com/?shop_id=35780301)
+- [**戈麦斯旗舰店**](https://gemaisi.tmall.com/)
 
